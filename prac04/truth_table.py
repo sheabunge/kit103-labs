@@ -55,6 +55,7 @@ def naive_implies(p, q):
 	"""p --> q naively implemented assuming that 'if p then q' is the same."""
 	if p:
 		return q
+	return True
 
 
 def truth_table_explained(p, n, binary=False):
