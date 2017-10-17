@@ -1,5 +1,5 @@
 
-from prac3.bitsets import set2bits, bits2set
+from prac03.bitsets import set2bits, bits2set
 
 """ 1. Partitions and products """
 
